@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Basic_Note_App/Pods-Basic_Note_App-frameworks.sh
+${BUILT_PRODUCTS_DIR}/MDFInternationalization/MDFInternationalization.framework
+${BUILT_PRODUCTS_DIR}/MaterialComponents/MaterialComponents.framework
+${BUILT_PRODUCTS_DIR}/SkyFloatingLabelTextField/SkyFloatingLabelTextField.framework
