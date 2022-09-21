@@ -1,4 +1,4 @@
-# basicnoteapp-MahmutSalihCicek
+# Mobillium-Ios-Intern-Project-MahmutSalihCicek
 
 This app is my Intern Project. A simple note app. User registers to the application with email and password. 
 Login and register are provided Laravel api.
